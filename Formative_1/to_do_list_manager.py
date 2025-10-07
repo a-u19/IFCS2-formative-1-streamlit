@@ -62,7 +62,7 @@ def export_tasks(task_list: list) -> None:
 
 def load_tasks() -> list:
     # Get all CSV files in current directory
-    csv_files = [f for f in os.listdir('.') if f.endswith('.csv')]
+    csv_files = [f for f in os.listdir('..') if f.endswith('.csv')]
 
     if not csv_files:
         st.warning("No CSV files found in current directory")

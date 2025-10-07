@@ -1,0 +1,9 @@
+https://ifcs2-formative-1-streamlit.onrender.com/
+
+The website is hosted using render at the URL above. It is currently on the free tier, and so initial boot up can take up to 30s according to Render.
+
+In the case of a technical difficulty, the code can be run using:
+
+'streamlit run to_do_list_manager.py' 
+
+However, as advised on the previous module, this can result in inconsistent packages and is not recommended.

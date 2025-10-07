@@ -1,0 +1,24 @@
+staff_id,first_name,last_name,manager_id,calls_taken,successful_calls,failed_calls,target_successful_calls,working_time_elapsed,avg_sat_score,status,team_id
+101,John,Doe,1,2,0,0,10,0.0,0.825,Free,1
+102,Jane,Smith,1,1,0,0,10,273.42107248306274,0.8,Free,1
+201,Mike,Johnson,2,1,0,0,10,0.0,0.6,Free,2
+103,Emma,Watson,3,3,2,1,10,5400.0,0.87,Free,3
+104,Daniel,Harris,3,5,3,2,10,7200.0,0.79,On Call,3
+105,Olivia,Clark,3,2,1,1,10,3600.0,0.91,Free,3
+106,William,Brown,4,4,3,1,10,6800.0,0.85,Free,4
+107,Sophia,Martin,4,6,4,2,10,8200.0,0.76,On Call,4
+108,Benjamin,Anderson,4,3,2,1,10,5900.0,0.88,Free,4
+109,Charlotte,Wilson,5,5,4,1,10,7100.0,0.82,Free,5
+110,Henry,Thompson,5,2,1,1,10,4200.0,0.93,Free,5
+202,Amelia,White,5,4,3,1,10,6500.0,0.78,On Call,2
+203,Ethan,Lee,6,3,2,1,10,5300.0,0.89,Free,6
+204,Mia,Walker,6,5,3,2,10,7400.0,0.75,Free,6
+205,Alexander,Hall,6,2,1,1,10,3800.0,0.94,Free,6
+206,Isabella,Young,7,4,3,1,10,6700.0,0.84,On Call,7
+207,Jacob,Allen,7,6,4,2,10,8100.0,0.77,Free,7
+208,Harper,King,7,3,2,1,10,5600.0,0.86,Free,7
+209,Logan,Scott,1,5,3,2,10,7200.0,0.81,Free,1
+210,Ava,Wright,1,2,1,1,10,4100.0,0.92,Free,1
+211,Mason,Lopez,2,4,3,1,10,6300.0,0.83,On Call,2
+212,Sofia,Hill,2,3,2,1,10,5200.0,0.9,Free,2
+213,Jackson,Green,2,5,3,2,10,7100.0,0.79,Free,2

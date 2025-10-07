@@ -1,0 +1,29 @@
+https://ifcs2-summative-1-streamlit.onrender.com
+
+The website is hosted using render at the URL above. It is currently on the free tier, and so initial boot up can take up to 30s according to Render.
+
+In the case of a technical difficulty, the code can be run using:
+
+'streamlit run main.py' 
+
+However, as advised on the previous module, this can result in inconsistent packages and is not recommended.
+=====================================================================================================
+To log into a manager's account use the following login:
+
+username = manager1
+password = password
+
+where the number can be between 1 to 7 to view the 7 different call services teams. 
+
+e.g. username = manager2
+password = password
+=====================================================================================================
+To view a user's account use the following log in:
+
+username = staff101
+password = password
+
+where the number can vary from 101-110 or 201-213
+
+e.g. username = staff207
+password = password

@@ -1,0 +1,8 @@
+manager_id,manager_first_name,manager_last_name,staff_list
+1,David,Cooper,"[101, 102, 999, 999]"
+2,Shirley,McDonald,[201]
+3,Michael,Scott,"[103, 104, 105]"
+4,Linda,Parker,"[106, 107, 108]"
+5,Robert,Williams,"[109, 110, 202]"
+6,Emily,Davis,"[203, 204, 205]"
+7,James,Wilson,"[206, 207, 208]"
